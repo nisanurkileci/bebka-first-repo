@@ -1,2 +1,4 @@
 Merhaba GitHub!
 
+Bu satır ozellik-deneme branch'inde eklendi.
+
