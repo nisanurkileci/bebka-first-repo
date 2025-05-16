@@ -1,3 +1,4 @@
 Merhaba GitHub!
 
-özellik deneme 
+Bu satır ozellik-deneme branch'inde eklendi.
+
